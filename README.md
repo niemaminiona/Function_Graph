@@ -1,0 +1,1 @@
+This project was made few months before i started using github, thats why this project for the moment of writing this message has one commit, its currently the final version but i may expand it in the future
